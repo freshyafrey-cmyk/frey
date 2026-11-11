@@ -1,0 +1,6 @@
+{
+  "name": "FREY - Multilingual Language Learning",
+  "description": "Learn English, German, French, and Indonesian through interactive listening, reading, quizzes, daily practice, and gamified progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
